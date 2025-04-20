@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195176475598",
+    "project_id": "nearby-store-clone",
+    "storage_bucket": "nearby-store-clone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195176475598:android:c806fbc1619dc92a34d99f",
+        "android_client_info": {
+          "package_name": "com.example.nearbystoreclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOBOBQ_jbCnXvak5aTDeE-OA9LWKipGIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
